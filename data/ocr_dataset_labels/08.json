@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Hildi Dragon",
+            "Home Address": "852 Boul. des Cedres",
+            "City": "Les Cedres",
+            "State": "QC",
+            "Zip": "J7T167",
+            "Driver's License No": "H93LL219",
+            "License State": "QC",
+            "License Expiry Date": "2025",
+            "Birth Date": "1973/16/03",
+            "Telephone": "514-620-2410",
+            "Email": "sam-apple@hotmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "3/16/24",
+            "Date DUE IN": "3/10/24",
+            "Mileage OUT": "16824",
+            "Mileage IN": "16825"
+        },
+        "Rental Vehicle Information": {
+        "Rental Car VIN": [
+            "1D4GP253X3B221657",
+            "1GMDU23E12D138288"
+        ],
+        "License No": [
+            "CH8 N4F",
+            "CH8 N3F"
+        ],
+        "State": "MO",
+        "Year/Make/Model": [
+            "2003 Dodge Caravan",
+            "2002 Pontiac Montana"
+        ],
+            "Car Rental Rate": {
+                "Weekly": "52",
+                "Daily": null
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "All State",
+            "Policy No": "166939",
+            "Expires": "5/11/25",
+            "Agent": "H.Tanguay",
+            "Telephone": "438-452-0157",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "123 / Honda/ Prius Prime / Blue",
+                "VehicleConditionOut": "Fender dented on right side",
+                "VehicleConditionIn": "Fender dented on right side"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "Full",
+              "Miles Allowed": "50",
+              "Time & Mileage Charges": null,
+              "Taxable Fuel GAL": null,
+              "Additional Driver Fee": null,
+              "Subtotal": "52",
+              "Tax": "0 %",
+              "Total Charge": "52 $",
+              "Payment": {
+                  "Amount": "52 $",
+                  "Method": "Credit Card",
+                  "Type": "MC",
+                  "Credit Card No": "4433 2816 6632 1122",
+                  "Expiration Date": "11/25",
+                  "Security Code": "733"
+              }
+          }
+        }

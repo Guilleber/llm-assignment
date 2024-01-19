@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Alex Tremblay",
+            "Home Address": "261 Rue Maclean",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H9R 5Y1",
+            "Driver's License No": "A0923-928347-42",
+            "License State": "QC",
+            "License Expiry Date": "01/14/2029",
+            "Birth Date": "18/11/1974",
+            "Telephone": "514 930 4820",
+            "Email": "tremblay_alex@gmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "21/02/2022",
+            "Date DUE IN": "22/02/2022",
+            "Mileage OUT": "9003",
+            "Mileage IN": "9103"
+        },
+        "Rental Vehicle Information": {
+            "Rental Car VIN": [
+              "1D4GP253X3B221657",
+              "1GMDU23E12D138288"
+            ],
+            "License No": [
+              "CH8 N4F",
+              "CH8 N3F"
+            ],
+            "State": "MO",
+            "Year/Make/Model": [
+              "2003 Dodge Caravan",
+              "2002 Pontiac Montana"
+            ],
+            "Car Rental Rate": {
+                "Weekly": null,
+                "Daily": "40"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "All State",
+            "Policy No": "740198",
+            "Expires": "22/02/2022",
+            "Agent": "Ansel Adams",
+            "Telephone": "438 093 0110",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2022 / Kia / Forte / White",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": null,
+              "Miles Allowed": "400",
+              "Time & Mileage Charges": "160$ per day, 0.5 per Mile",
+              "Taxable Fuel GAL": "3.5",
+              "Additional Driver Fee": null,
+              "Subtotal": "40",
+              "Tax": "14.97",
+              "Total Charge": "45.98",
+              "Payment": {
+                  "Amount": "45.98",
+                  "Method": "Credit Card",
+                  "Type": "MC",
+                  "Credit Card No": "2912 3312 6590 8876",
+                  "Expiration Date": "11/24",
+                  "Security Code": "998"
+              }
+          }
+        }
