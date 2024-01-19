@@ -18,6 +18,7 @@ if __name__ == "__main__":
     input_directory = "../data/ocr_dataset_original_size"
 
     jpeg_files = []
+
     for f in os.listdir(input_directory):
         if f.lower().endswith((".jpeg", ".jpg")):
             jpeg_files.append(os.path.join(input_directory, f))
@@ -27,7 +28,11 @@ if __name__ == "__main__":
         " to rent a car. do not cover any information available on the form for security!"
     )
 
+    print("Starting to read the image")
     result = utils.read_image(
         system_prompt=system_prompt, user_prompt="", image_urls=[jpeg_files[0]]
     )
+    print("GPT-4 output start <")
     print(result)
+    print("> GPT-4 output end")
+    print("Image reading completed!")
