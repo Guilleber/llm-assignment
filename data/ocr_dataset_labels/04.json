@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "LARIVIERE Patrick",
+            "Home Address": "4457 NorthMount 57",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H2J 3B9",
+            "Driver's License No": "479951",
+            "License State": "QC",
+            "License Expiry Date": "09/2027",
+            "Birth Date": "07/07/95",
+            "Telephone": "+33 7 86 55 22 011",
+            "Email": "pat.lariviere@polymtl.ca"
+        },
+        "Rental Information": {
+            "Date OUT": "09/2024",
+            "Date DUE IN": "09/2025",
+            "Mileage OUT": "4755",
+            "Mileage IN": "4900"
+        },
+        "Rental Vehicle Information": {
+        "Rental Car VIN": [
+            "1D4GP253X3B221657",
+            "1GMDU23E12D138288"
+        ],
+        "License No": [
+            "CH8 N4F",
+            "CH8 N3F"
+        ],
+        "State": "MO",
+        "Year/Make/Model": [
+            "2003 Dodge Caravan",
+            "2002 Pontiac Montana"
+        ],
+            "Car Rental Rate": {
+                "Weekly": "500",
+                "Daily": "100"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "Smith and Co.",
+            "Policy No": "744317",
+            "Expires": "09/2025",
+            "Agent": "Smith",
+            "Telephone": "438 800 9947",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "Blue Dodge Caravan",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "Full",
+              "Miles Allowed": "300",
+              "Time & Mileage Charges": "100",
+              "Taxable Fuel GAL": "5",
+              "Additional Driver Fee": "100",
+              "Subtotal": "4444",
+              "Tax": "15 %",
+              "Total Charge": "10 k",
+              "Payment": {
+                  "Amount": "9999",
+                  "Method": "Credit Card",
+                  "Type": "AE",
+                  "Credit Card No": "4766 7198",
+                  "Expiration Date": "09/25",
+                  "Security Code": "474"
+              }
+          }
+        }

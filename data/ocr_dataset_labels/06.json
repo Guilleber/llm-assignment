@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "REBECCA DAvis",
+            "Home Address": "200 wisTERiaLAND",
+            "City": "DAWSON",
+            "State": "NY",
+            "Zip": "01613",
+            "Driver's License No": "Nx911230B",
+            "License State": "NY",
+            "License Expiry Date": "2030/12",
+            "Birth Date": "1991/09/13",
+            "Telephone": "596 877 0310",
+            "Email": "rebecca.davis@gmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "2024/03/01",
+            "Date DUE IN": "2024/03/05",
+            "Mileage OUT": "35090",
+            "Mileage IN": null
+        },
+        "Rental Vehicle Information": {
+        "Rental Car VIN": [
+            "1D4GP253X3B221657",
+            "1GMDU23E12D138288"
+        ],
+        "License No": [
+            "CH8 N4F",
+            "CH8 N3F"
+        ],
+        "State": "MO",
+        "Year/Make/Model": [
+            "2003 Dodge Caravan",
+            "2002 Pontiac Montana"
+        ],
+            "Car Rental Rate": {
+                "Weekly": "1000",
+                "Daily": "150"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "InSURE My AUTO",
+            "Policy No": "PT01978",
+            "Expires": "2024/07/01",
+            "Agent": "MATTHEW",
+            "Telephone": "581 440 2110",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2003 DoDGE CARAVAN BLACK",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "Full",
+              "Miles Allowed": "200",
+              "Time & Mileage Charges": "5 $/MiLE",
+              "Taxable Fuel GAL": "3.359",
+              "Additional Driver Fee": "300",
+              "Subtotal": "1300",
+              "Tax": "5 %",
+              "Total Charge": "1365",
+              "Payment": {
+                  "Amount": "1365",
+                  "Method": "Credit Card",
+                  "Type": null,
+                  "Credit Card No": "5555 4444 1001 3232",
+                  "Expiration Date": "12/2028",
+                  "Security Code": "111"
+              }
+          }
+        }

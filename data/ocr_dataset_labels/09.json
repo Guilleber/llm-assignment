@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Caitlin Armweak",
+            "Home Address": "1239 Bank Street",
+            "City": "New York",
+            "State": "New York",
+            "Zip": "000112",
+            "Driver's License No": "A1246123B",
+            "License State": "NY",
+            "License Expiry Date": "01/25",
+            "Birth Date": "07/11/90",
+            "Telephone": "111-268-1234",
+            "Email": "caitlin.armweak@gmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "01/05/24",
+            "Date DUE IN": "01/06/24",
+            "Mileage OUT": "222123",
+            "Mileage IN": "222187"
+        },
+        "Rental Vehicle Information": {
+        "Rental Car VIN": [
+            "1D4GP253X3B221657",
+            "1GMDU23E12D138288"
+        ],
+        "License No": [
+            "CH8 N4F",
+            "CH8 N3F"
+        ],
+        "State": "MO",
+        "Year/Make/Model": [
+            "2003 Dodge Caravan",
+            "2002 Pontiac Montana"
+        ],
+            "Car Rental Rate": {
+                "Weekly": null,
+                "Daily": "87"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "Allstate",
+            "Policy No": "AB125",
+            "Expires": "01/25",
+            "Agent": "George",
+            "Telephone": null,
+            "InsuredVehicle": {
+                "YearMakeModelColor": "Hondafit 2009 Grey",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "3/4",
+              "Miles Allowed": "30",
+              "Time & Mileage Charges": null,
+              "Taxable Fuel GAL": "1",
+              "Additional Driver Fee": null,
+              "Subtotal": null,
+              "Tax": "6 %",
+              "Total Charge": "$ 64 + 87",
+              "Payment": {
+                  "Amount": "131",
+                  "Method": null,
+                  "Type": "Other",
+                  "Credit Card No": null,
+                  "Expiration Date": null,
+                  "Security Code": null
+              }
+          }
+        }

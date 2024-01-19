@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Nicolas Boez",
+            "Home Address": "7902 Rue Saint Hubert",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H2R2P2",
+            "Driver's License No": "1234-5678",
+            "License State": "QC",
+            "License Expiry Date": "12/29",
+            "Birth Date": "30/12/1994",
+            "Telephone": "514-966-5492",
+            "Email": "nicolas@outlook.com"
+        },
+        "Rental Information": {
+            "Date OUT": "01/04/24",
+            "Date DUE IN": "14/04/24",
+            "Mileage OUT": "120000",
+            "Mileage IN": "123211"
+        },
+        "Rental Vehicle Information": {
+            "Rental Car VIN": [
+              "1D4GP253X3B221657",
+              "1GMDU23E12D138288"
+            ],
+            "License No": [
+              "CH8 N4F",
+              "CH8 N3F"
+            ],
+            "State": "MO",
+            "Year/Make/Model": [
+              "2003 Dodge Caravan",
+              "2002 Pontiac Montana"
+            ],
+            "Car Rental Rate": {
+                "Weekly": null,
+                "Daily": "40"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "Insurance Corp",
+            "Policy No": "144.962",
+            "Expires": "01/07/2026",
+            "Agent": "Popovic L",
+            "Telephone": "418-246-7932",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2018/Honda/CRV/grey",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "Full",
+              "Miles Allowed": "500",
+              "Time & Mileage Charges": "560",
+              "Taxable Fuel GAL": "0",
+              "Additional Driver Fee": "0",
+              "Subtotal": "560",
+              "Tax": "15%",
+              "Total Charge": "644",
+              "Payment": {
+                  "Amount": "644",
+                  "Method": "Credit Card",
+                  "Type": "MC",
+                  "Credit Card No": "1444 2937 4876 1000",
+                  "Expiration Date": "04/27",
+                  "Security Code": "007"
+              }
+          }
+        }

@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Louis Popovic",
+            "Home Address": "1111 Rue marconi",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H2S3A9",
+            "Driver's License No": "999AAAXXX",
+            "License State": "QC",
+            "License Expiry Date": "08/2024",
+            "Birth Date": "01/01/1990",
+            "Telephone": "514 555 6138",
+            "Email": "louispopovic@hotmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "31/03/2024",
+            "Date DUE IN": "31/04/2024",
+            "Mileage OUT": "23724 km",
+            "Mileage IN": "23852 km"
+        },
+        "Rental Vehicle Information": {
+        "Rental Car VIN": [
+            "1D4GP253X3B221657",
+            "1GMDU23E12D138288"
+        ],
+        "License No": [
+            "CH8 N4F",
+            "CH8 N3F"
+        ],
+        "State": "MO",
+        "Year/Make/Model": [
+            "2003 Dodge Caravan",
+            "2002 Pontiac Montana"
+        ],
+            "Car Rental Rate": {
+                "Weekly": "1000",
+                "Daily": null
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "Beneva",
+            "Policy No": "10987632",
+            "Expires": "08/2025",
+            "Agent": "Sidney Crosby",
+            "Telephone": "514 233 8787",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2000 / 1990 / BMW / Black",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "Full",
+              "Miles Allowed": "100",
+              "Time & Mileage Charges": null,
+              "Taxable Fuel GAL": "1.52",
+              "Additional Driver Fee": "150 $",
+              "Subtotal": "3232.52 $",
+              "Tax": "15 %",
+              "Total Charge": "4000.99 $",
+              "Payment": {
+                  "Amount": "4000.99 $",
+                  "Method": "Credit Card",
+                  "Type": "MC",
+                  "Credit Card No": "9999 2223 4441 6602",
+                  "Expiration Date": "03/2028",
+                  "Security Code": "999"
+              }
+          }
+        }

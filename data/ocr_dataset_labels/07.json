@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Carl Perreault-Lafleur",
+            "Home Address": "2103 Prefontaine Street",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H1W2P4",
+            "Driver's License No": "ABCD1234",
+            "License State": "QC",
+            "License Expiry Date": "01/01",
+            "Birth Date": "01/01/21",
+            "Telephone": "514-222-2222",
+            "Email": "thisismyemail@myemail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "02/24",
+            "Date DUE IN": "04/24",
+            "Mileage OUT": "400000000000 km",
+            "Mileage IN": "400000000001 km"
+        },
+        "Rental Vehicle Information": {
+        "Rental Car VIN": [
+            "1D4GP253X3B221657",
+            "1GMDU23E12D138288"
+        ],
+        "License No": [
+            "CH8 N4F",
+            "CH8 N3F"
+        ],
+        "State": "MO",
+        "Year/Make/Model": [
+            "2003 Dodge Caravan",
+            "2002 Pontiac Montana"
+        ],
+            "Car Rental Rate": {
+                "Weekly": "50k $",
+                "Daily": "100K $"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "Ivado Labs",
+            "Policy No": "# 456789",
+            "Expires": "4th January 2036",
+            "Agent": "Carlos Abdul",
+            "Telephone": "1-438-123-4567",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "Kia Rio Blue 1964",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "3/4",
+              "Miles Allowed": "50000",
+              "Time & Mileage Charges": "40 $/hour",
+              "Taxable Fuel GAL": "10987.65 $",
+              "Additional Driver Fee": "50 $",
+              "Subtotal": "2000000 $",
+              "Tax": "15 %",
+              "Total Charge": "200 $",
+              "Payment": {
+                  "Amount": "205",
+                  "Method": "Check",
+                  "Type": "MC",
+                  "Credit Card No": "9876543210",
+                  "Expiration Date": "01/28",
+                  "Security Code": "472"
+              }
+          }
+        }

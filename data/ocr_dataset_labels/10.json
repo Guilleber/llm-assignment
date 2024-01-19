@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "JOFFREY ARMELLiNi",
+            "Home Address": "4472 st LAURENT",
+            "City": "MONTREAL",
+            "State": "QC",
+            "Zip": "H2n2P4",
+            "Driver's License No": "1468",
+            "License State": "QC",
+            "License Expiry Date": "01/2025",
+            "Birth Date": "08/06/1980",
+            "Telephone": "916 428 514",
+            "Email": "JEFFUS@GMAIL.COM"
+        },
+        "Rental Information": {
+            "Date OUT": "01/03/24",
+            "Date DUE IN": "01/05/24",
+            "Mileage OUT": "24500",
+            "Mileage IN": "26200"
+        },
+        "Rental Vehicle Information": {
+        "Rental Car VIN": [
+            "1D4GP253X3B221657",
+            "1GMDU23E12D138288"
+        ],
+        "License No": [
+            "CH8 N4F",
+            "CH8 N3F"
+        ],
+        "State": "MO",
+        "Year/Make/Model": [
+            "2003 Dodge Caravan",
+            "2002 Pontiac Montana"
+        ],
+            "Car Rental Rate": {
+                "Weekly": "100",
+                "Daily": "20"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "SUNLIFE",
+            "Policy No": "1456",
+            "Expires": "09/06/2026",
+            "Agent": "123",
+            "Telephone": "916 422 422",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "FORD FIESTA WHITE",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "Full",
+              "Miles Allowed": "200",
+              "Time & Mileage Charges": null,
+              "Taxable Fuel GAL": null,
+              "Additional Driver Fee": null,
+              "Subtotal": null,
+              "Tax": null,
+              "Total Charge": null,
+              "Payment": {
+                  "Amount": null,
+                  "Method": null,
+                  "Type": null,
+                  "Credit Card No": null,
+                  "Expiration Date": null,
+                  "Security Code": null
+              }
+          }
+        }

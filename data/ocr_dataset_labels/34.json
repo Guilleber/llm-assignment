@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Daniel Gagnon",
+            "Home Address": "11808 Bd Saint-Germain",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H4J 1Z9",
+            "Driver's License No": "Y7834-120938-11",
+            "License State": "QC",
+            "License Expiry Date": "08/08/2025",
+            "Birth Date": "23/12/1989",
+            "Telephone": "438 983 2393",
+            "Email": "daniel.g@gmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "11/07/2023",
+            "Date DUE IN": "11/08/2023",
+            "Mileage OUT": "50000",
+            "Mileage IN": "62349"
+        },
+        "Rental Vehicle Information": {
+            "Rental Car VIN": [
+              "1D4GP253X3B221657",
+              "1GMDU23E12D138288"
+            ],
+            "License No": [
+              "CH8 N4F",
+              "CH8 N3F"
+            ],
+            "State": "MO",
+            "Year/Make/Model": [
+              "2003 Dodge Caravan",
+              "2002 Pontiac Montana"
+            ],
+            "Car Rental Rate": {
+                "Weekly": null,
+                "Daily": "74"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "All State",
+            "Policy No": "983490",
+            "Expires": "11/08/2023",
+            "Agent": "Kareem Abdul-Jabbar",
+            "Telephone": "438 984 9393",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2020 / Toyota / Corolla / Red",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": null,
+              "Miles Allowed": "150",
+              "Time & Mileage Charges": "200$ per day, 0.5$ per Mile",
+              "Taxable Fuel GAL": "3.5",
+              "Additional Driver Fee": null,
+              "Subtotal": "2294",
+              "Tax": "14.97",
+              "Total Charge": "2637.41",
+              "Payment": {
+                  "Amount": "2637.41",
+                  "Method": "Credit Card",
+                  "Type": "MC",
+                  "Credit Card No": "9843 0943 2233 0934",
+                  "Expiration Date": "11/27",
+                  "Security Code": "987"
+              }
+          }
+        }

@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Julia Robert",
+            "Home Address": "203 Rue Robert",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "O3HS17",
+            "Driver's License No": "OH538002",
+            "License State": "QC",
+            "License Expiry Date": "23/01/07",
+            "Birth Date": "03/05/55",
+            "Telephone": "035128937",
+            "Email": "julia.robert@hotmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "1/3/2003",
+            "Date DUE IN": "1/4/2003",
+            "Mileage OUT": "23",
+            "Mileage IN": "20"
+        },
+        "Rental Vehicle Information": {
+            "Rental Car VIN": [
+              "1D4GP253X3B221657",
+              "1GMDU23E12D138288"
+            ],
+            "License No": [
+              "CH8 N4F",
+              "CH8 N3F"
+            ],
+            "State": "MO",
+            "Year/Make/Model": [
+              "2003 Dodge Caravan",
+              "2002 Pontiac Montana"
+            ],
+            "Car Rental Rate": {
+                "Weekly": null,
+                "Daily": null
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "AUTO INSURE",
+            "Policy No": "15378",
+            "Expires": "23/1/2023",
+            "Agent": "AAGENT",
+            "Telephone": "12345678",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2023 RED",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": null,
+              "Miles Allowed": null,
+              "Time & Mileage Charges": null,
+              "Taxable Fuel GAL": null,
+              "Additional Driver Fee": null,
+              "Subtotal": null,
+              "Tax": null,
+              "Total Charge": null,
+              "Payment": {
+                  "Amount": null,
+                  "Method": null,
+                  "Type": null,
+                  "Credit Card No": null,
+                  "Expiration Date": null,
+                  "Security Code": null
+              }
+          }
+        }

@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Olivia Martin",
+            "Home Address": "5609 Hudson Ave",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H4W 2K3",
+            "Driver's License No": "Z1243-097839-23",
+            "License State": "QC",
+            "License Expiry Date": "13/02/2030",
+            "Birth Date": "01/03/2002",
+            "Telephone": "438 789 4323",
+            "Email": "ol.mar@gmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "03/01/2024",
+            "Date DUE IN": "10/01/2024",
+            "Mileage OUT": "1000",
+            "Mileage IN": "3000"
+        },
+        "Rental Vehicle Information": {
+            "Rental Car VIN": [
+              "1D4GP253X3B221657",
+              "1GMDU23E12D138288"
+            ],
+            "License No": [
+              "CH8 N4F",
+              "CH8 N3F"
+            ],
+            "State": "MO",
+            "Year/Make/Model": [
+              "2003 Dodge Caravan",
+              "2002 Pontiac Montana"
+            ],
+            "Car Rental Rate": {
+                "Weekly": null,
+                "Daily": "120"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "All State",
+            "Policy No": "903498",
+            "Expires": "10/01/2024",
+            "Agent": "Michael Phelps",
+            "Telephone": "514 930 0909",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2024 / Kia / Sportage / Black",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": null,
+              "Miles Allowed": "200",
+              "Time & Mileage Charges": "350$ per day, 1.5$ per Mile",
+              "Taxable Fuel GAL": "3.5",
+              "Additional Driver Fee": null,
+              "Subtotal": "1740",
+              "Tax": "14.97",
+              "Total Charge": "2000.47",
+              "Payment": {
+                  "Amount": "2000.47",
+                  "Method": "Credit Card",
+                  "Type": "MC",
+                  "Credit Card No": "9839 2211 0099 9839",
+                  "Expiration Date": "12/30",
+                  "Security Code": "122"
+              }
+          }
+        }

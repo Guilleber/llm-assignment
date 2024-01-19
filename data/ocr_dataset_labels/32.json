@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Sarah Johnson",
+            "Home Address": "6724 Rue Chatelain",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H1T 2L2",
+            "Driver's License No": "B9238-920394-12",
+            "License State": "QC",
+            "License Expiry Date": "01/04/2026",
+            "Birth Date": "02/12/2000",
+            "Telephone": "514 930 4820",
+            "Email": "j.sarah@gmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "02/04/2023",
+            "Date DUE IN": "09/04/2023",
+            "Mileage OUT": "23492",
+            "Mileage IN": "26593"
+        },
+        "Rental Vehicle Information": {
+            "Rental Car VIN": [
+              "1D4GP253X3B221657",
+              "1GMDU23E12D138288"
+            ],
+            "License No": [
+              "CH8 N4F",
+              "CH8 N3F"
+            ],
+            "State": "MO",
+            "Year/Make/Model": [
+              "2003 Dodge Caravan",
+              "2002 Pontiac Montana"
+            ],
+            "Car Rental Rate": {
+                "Weekly": null,
+                "Daily": "200"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "All State",
+            "Policy No": "930293",
+            "Expires": "09/04/2023",
+            "Agent": "Alen Turing",
+            "Telephone": "514 940 0293",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2015 / BMW / i8 / blue",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": null,
+              "Miles Allowed": "200",
+              "Time & Mileage Charges": "220$ per day, 1.5$ per Mile",
+              "Taxable Fuel GAL": null,
+              "Additional Driver Fee": null,
+              "Subtotal": "6051.5",
+              "Tax": "14.97",
+              "Total Charge": "6957.40",
+              "Payment": {
+                  "Amount": "6957.40",
+                  "Method": "Credit Card",
+                  "Type": "MC",
+                  "Credit Card No": "2930 1029 4982 4093",
+                  "Expiration Date": "12/32",
+                  "Security Code": "867"
+              }
+          }
+        }

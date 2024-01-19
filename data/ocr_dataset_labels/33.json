@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Mark Bridge",
+            "Home Address": "1925 Rue Dépatie",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H4L 4B2",
+            "Driver's License No": "D9382-283049-93",
+            "License State": "QC",
+            "License Expiry Date": "19/01/2032",
+            "Birth Date": "14/11/1992",
+            "Telephone": "438 390 1023",
+            "Email": "mark.bridge@gmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "12/12/2024",
+            "Date DUE IN": "16/12/2024",
+            "Mileage OUT": "120000",
+            "Mileage IN": "121525"
+        },
+        "Rental Vehicle Information": {
+            "Rental Car VIN": [
+              "1D4GP253X3B221657",
+              "1GMDU23E12D138288"
+            ],
+            "License No": [
+              "CH8 N4F",
+              "CH8 N3F"
+            ],
+            "State": "MO",
+            "Year/Make/Model": [
+              "2003 Dodge Caravan",
+              "2002 Pontiac Montana"
+            ],
+            "Car Rental Rate": {
+                "Weekly": null,
+                "Daily": "80"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "All State",
+            "Policy No": "166939",
+            "Expires": "16/12/2024",
+            "Agent": "Max Amini",
+            "Telephone": "514 934 2099",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2019 / Honda / Prius / Red",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "Full",
+              "Miles Allowed": "300",
+              "Time & Mileage Charges": "220$ per day, 0.5$ per Mile",
+              "Taxable Fuel GAL": "3.51",
+              "Additional Driver Fee": null,
+              "Subtotal": "482.5",
+              "Tax": "14.97",
+              "Total Charge": "554.73",
+              "Payment": {
+                  "Amount": "554.73",
+                  "Method": "Credit Card",
+                  "Type": "MC",
+                  "Credit Card No": "2938 9382 0493 0293",
+                  "Expiration Date": "01/29",
+                  "Security Code": "456"
+              }
+          }
+        }

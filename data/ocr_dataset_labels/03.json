@@ -1,0 +1,70 @@
+{
+        "Customer Information": {
+            "Customer Name": "Alain PROST",
+            "Home Address": "6745 rue Marconi",
+            "City": "Montreal",
+            "State": "QC",
+            "Zip": "H2S3J9",
+            "Driver's License No": "L2003-010199-07",
+            "License State": "QC",
+            "License Expiry Date": "01/2027",
+            "Birth Date": "0/0/1999",
+            "Telephone": "514 677 6789",
+            "Email": "monemail@gmail.com"
+        },
+        "Rental Information": {
+            "Date OUT": "3/1/2024",
+            "Date DUE IN": "5/1/2024",
+            "Mileage OUT": "35134",
+            "Mileage IN": "36001"
+        },
+        "Rental Vehicle Information": {
+        "Rental Car VIN": [
+            "1D4GP253X3B221657",
+            "1GMDU23E12D138288"
+        ],
+        "License No": [
+            "CH8 N4F",
+            "CH8 N3F"
+        ],
+        "State": "MO",
+        "Year/Make/Model": [
+            "2003 Dodge Caravan",
+            "2002 Pontiac Montana"
+        ],
+            "Car Rental Rate": {
+                "Weekly": "7000",
+                "Daily": "1000"
+            }
+        },
+        "Customer Vehicle Insurance Information": {
+            "Auto Insurance Company": "La Personnelle",
+            "Policy No": "199876",
+            "Expires": "02/2026",
+            "Agent": "Smith",
+            "Telephone": "514 007 1234",
+            "InsuredVehicle": {
+                "YearMakeModelColor": "2023 Ferrari 2466ts Red",
+                "VehicleConditionOut": "No Damage",
+                "VehicleConditionIn": "No Damage"
+            }
+        },
+        "Payment Information": {
+              "Gas Tank Reading": "Full",
+              "Miles Allowed": "1000",
+              "Time & Mileage Charges": "1 day",
+              "Taxable Fuel GAL": "250",
+              "Additional Driver Fee": null,
+              "Subtotal": "250",
+              "Tax": "10 %",
+              "Total Charge": "275",
+              "Payment": {
+                  "Amount": "275",
+                  "Method": "Credit Card",
+                  "Type": null,
+                  "Credit Card No": "4500 1235 5678 9101",
+                  "Expiration Date": "04/28",
+                  "Security Code": "027"
+              }
+          }
+        }
