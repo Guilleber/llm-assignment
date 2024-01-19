@@ -4,8 +4,8 @@ import base64
 from openai import OpenAI, Stream
 from openai.types.chat import ChatCompletion, ChatCompletionChunk
 
-def llm_chat(messages: List) -> ChatCompletion | Stream[ChatCompletionChunk]:
 
+def llm_chat(messages: List) -> ChatCompletion | Stream[ChatCompletionChunk]:
     client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
 
     response = client.chat.completions.create(
@@ -16,9 +16,8 @@ def llm_chat(messages: List) -> ChatCompletion | Stream[ChatCompletionChunk]:
     )
     return response
 
-def llm_messages(
-    system_prompt: str, user_prompt: str, image_url_list: List
-) -> List:
+
+def llm_messages(system_prompt: str, user_prompt: str, image_url_list: List) -> List:
     # Initialize the messages list
     messages = [
         {
@@ -51,16 +50,16 @@ def llm_messages(
 
     return messages
 
+
 def encode_image(image_path: str) -> str:
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
 
-def read_image(system_prompt : str, user_prompt : str, image_urls: List[str]) -> str:
+
+def read_image(system_prompt: str, user_prompt: str, image_urls: List[str]) -> str:
     encoded_images = []
     for image_url in image_urls:
-        encoded_images.append(
-            f"data:image/jpeg;base64,{encode_image(image_url)}"
-        )
+        encoded_images.append(f"data:image/jpeg;base64,{encode_image(image_url)}")
 
     response = llm_chat(
         messages=llm_messages(
@@ -71,5 +70,5 @@ def read_image(system_prompt : str, user_prompt : str, image_urls: List[str]) ->
     )
     result = response.choices[0].message.content
 
-    #Do some special processing here to return a json
+    # Do some special processing here to return a result output in json
     return result
